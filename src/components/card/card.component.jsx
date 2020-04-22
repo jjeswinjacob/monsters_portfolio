@@ -9,6 +9,7 @@ export const Card = props => (
         />
         <h2> {props.monster.name} </h2>
         <p> {props.monster.email} </p>
+        <h3> Hi There! </h3>
     </div>
 )
 

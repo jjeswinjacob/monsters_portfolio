@@ -1,2 +1,2 @@
 # monsters_portfolio
-Sample React App for Searching monster cdetails
+Sample React App for Searching monster details
